@@ -1,3 +1,11 @@
+# Changelog (temp)
+- [x] Blockchain depth: add range-based loops, early returns, lambdas and std::any_of
+- [x] Refactoring checkpoints: add default constructor and switch case for nettypes
+- [x] Add error handling and string handling with command_line::get_arg (blockchain export)
+- [x] Add early returns and helper functions (blockchain_prune_known_spent_data.cpp)
+- [x] Add std::unique_ptr, modularity and error handling (refactor bootstrap)
+- [x] Posix: stream handling and helper functions
+
 # Monero
 
 Copyright (c) 2014-2024, The Monero Project
